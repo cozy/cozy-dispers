@@ -1,14 +1,7 @@
 Cozy DISPERS
 ==========
 
-## What is Cozy?
-
-![Cozy Logo](https://cdn.rawgit.com/cozy/cozy-guidelines/master/templates/cozy_logo_small.svg)
-
-[Cozy](https://cozy.io) is a platform that brings all your web services in the
-same private space. With it, your web apps and your devices can share data
-easily, providing you with a new experience. You can install Cozy on your own
-hardware where no one profiles you.
+⚠️ This is a POC that might dramatically evolve in the future.
 
 
 ## What is Cozy-DISPERS
@@ -50,6 +43,14 @@ We are eager for contributions and very happy when we receive them! It can
 code, of course, but it can also take other forms. The workflow is explained
 in [the contributing guide](docs/CONTRIBUTING.md).
 
+## What is Cozy?
+
+![Cozy Logo](https://cdn.rawgit.com/cozy/cozy-guidelines/master/templates/cozy_logo_small.svg)
+
+[Cozy](https://cozy.io) is a platform that brings all your web services in the
+same private space. With it, your web apps and your devices can share data
+easily, providing you with a new experience. You can install Cozy on your own
+hardware where no one profiles you.
 
 ## Community
 
